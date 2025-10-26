@@ -1,3 +1,2 @@
-print(1)
-print(2)
-print(3)
+for a in range(1, 4):
+    print(a)
